@@ -17,7 +17,8 @@ body {
     flex: 1;
     padding: 1em;
     box-sizing: border-box;
-    min-height: 100vh;
+    height: 100vh;
+    overflow-y: auto;
 }
 
 @media (max-aspect-ratio: 1) {
@@ -26,6 +27,10 @@ body {
     }
     #sheet {
         flex: 0 0 min(140vw, 80vh);
+    }
+    #content {
+        height: auto;
+        min-height: 100vh;
     }
 }
 
