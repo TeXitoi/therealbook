@@ -51,6 +51,7 @@ body {
     margin: 0;
     border: 1px solid grey;
     border-top: none;
+    min-height: 1ex;
 
     li {
         padding: 0.5ex;
