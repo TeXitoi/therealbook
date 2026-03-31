@@ -13,8 +13,8 @@ class Data {
       li.addEventListener("click", () => this.display(sheet.id));
       li.textContent = `${sheet.title} by ${sheet.authors.join(", ")}`;
       li.setAttribute(
-	"data-fulltext",
-	`${sheet.title} ${sheet.authors.join(" ")}`.toLowerCase(),
+        "data-fulltext",
+        `${sheet.title} ${sheet.authors.join(" ")}`.toLowerCase(),
       );
       fragment.appendChild(li);
     }
@@ -52,9 +52,9 @@ class Data {
       const li = document.createElement("li");
       li.textContent = data.books.find(b => b.id === bookId).name;
       if (bookId === this.curBookId) {
-	li.classList.add("displayed");
+        li.classList.add("displayed");
       } else {
-	li.addEventListener("click", () => this.display(sheetId, bookId));
+        li.addEventListener("click", () => this.display(sheetId, bookId));
       }
       this.alternatives.appendChild(li);
     }
@@ -74,9 +74,9 @@ class Autocomplete {
     const value = e.target.value.toLowerCase();
     for (const sheet of this.sheets.children) {
       if (sheet.getAttribute("data-fulltext").includes(value)) {
-	sheet.classList.remove("filtered");
+        sheet.classList.remove("filtered");
       } else {
-	sheet.classList.add("filtered");
+        sheet.classList.add("filtered");
       }
     }
   }
@@ -90,7 +90,7 @@ class Autocomplete {
     const selectableSheets = this.sheets.querySelectorAll("li:not(.filtered)");
     const select = () => {
       for (const s of this.sheets.children) {
-	s.classList.remove("selected");
+        s.classList.remove("selected");
       }
       selectableSheets[this.selected].classList.add("selected");
       selectableSheets[this.selected].scrollIntoView({ block: "nearest" });
