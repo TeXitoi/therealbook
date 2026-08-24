@@ -1,16 +1,16 @@
 class Data {
   constructor() {
-    this.curSheetId = null;
-    this.curBookId = null;
+    this.curSheetIdx = null;
+    this.curBookIdx = null;
     this.title = document.getElementById("title");
     this.alternatives = document.getElementById("alternatives");
 
     const sheets = document.getElementById("sheets");
     sheets.innerHTML = "";
     const fragment = document.createDocumentFragment();
-    for (const sheet of data.sheets) {
+    for (const [idx, sheet] of Object.entries(data.sheets)) {
       const li = document.createElement("li");
-      li.addEventListener("click", () => this.display(sheet.id));
+      li.addEventListener("click", () => this.display(idx));
       li.textContent = `${sheet.title} by ${sheet.authors.join(", ")}`;
       li.setAttribute(
         "data-fulltext",
@@ -21,13 +21,13 @@ class Data {
     sheets.appendChild(fragment);
   }
   display(sheetId, bookId) {
-    const sheet = data.sheets.find(s => s.id === sheetId);
+    const sheet = data.sheets[sheetId];
     if (!sheet) { return; }
+    const books = data.books.filter(b => b.volume == sheet.volume && this.realPage(b, sheet) !== null);
     if (sheetId === this.curSheetId && bookId === undefined) {
-      const idx = sheet.books.findIndex(id => id === this.curBookId);
-      bookId = sheet.books[(idx + 1) % sheet.books.length];
+      bookId = (this.curBookId + 1) % books.length;
     } else if (bookId === undefined) {
-      bookId = sheet.books[0];
+      bookId = 0;
     }
     if (this.curSheetId === sheetId && this.curBookId === bookId) { return; }
 
@@ -39,7 +39,7 @@ class Data {
     const c = e.cloneNode();
     c.setAttribute(
       "data",
-      `https://therealbook.info/pdfdoc/index/${sheetId}/${bookId}`,
+      `${books[bookId].url}#page=${this.realPage(books[bookId], sheet)}`,
     );
     e.replaceWith(c);
 
@@ -48,16 +48,24 @@ class Data {
     document.title = `${title} — The Real Book`;
 
     this.alternatives.replaceChildren();
-    for (const bookId of sheet.books) {
+    books.forEach((book, id) => {
       const li = document.createElement("li");
-      li.textContent = data.books.find(b => b.id === bookId).name;
-      if (bookId === this.curBookId) {
+      li.textContent = book.name;
+      if (id === this.curBookId) {
         li.classList.add("displayed");
       } else {
-        li.addEventListener("click", () => this.display(sheetId, bookId));
+        li.addEventListener("click", () => this.display(sheetId, id));
       }
       this.alternatives.appendChild(li);
+    });
+  }
+  realPage(book, sheet) {
+    for (const offset of book.offsets) {
+      if (offset.from && sheet.page < offset.from) { continue; }
+      if (offset.to && offset.to < sheet.page) { continue; }
+      return offset.offset + sheet.page;
     }
+    return null;
   }
 }
 
