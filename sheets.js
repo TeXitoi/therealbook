@@ -11,7 +11,7 @@ data.sheets = [
   {
     "title": "12-4 2-4/Duplicities",
     "authors": [
-      "Stock"
+      "Jack Stock"
     ],
     "volume": 1,
     "page": 128
@@ -66,6 +66,14 @@ data.sheets = [
     "page": 2
   },
   {
+    "title": "A Day In Vienna",
+    "authors": [
+      "Slide Hampton"
+    ],
+    "volume": 2,
+    "page": 71
+  },
+  {
     "title": "A Family Joy",
     "authors": [
       "Michael Gibbs"
@@ -83,12 +91,61 @@ data.sheets = [
     "page": 3
   },
   {
+    "title": "A Flower Is A Lonesome Thing",
+    "authors": [
+      "Billy Strayhorn"
+    ],
+    "volume": 2,
+    "page": 101
+  },
+  {
     "title": "A Foggy Day",
     "authors": [
       "George Gershwin"
     ],
     "volume": 1,
     "page": 6
+  },
+  {
+    "title": "A Ghost Of A Chance",
+    "authors": [
+      "Victor Young",
+      "Ned Washington"
+    ],
+    "volume": 2,
+    "page": 121
+  },
+  {
+    "title": "A Japanese Waltz",
+    "authors": [
+      "Chick Corea"
+    ],
+    "volume": 3,
+    "page": 155
+  },
+  {
+    "title": "A Little Chicago Fire",
+    "authors": [
+      "Frank Foster"
+    ],
+    "volume": 2,
+    "page": 215
+  },
+  {
+    "title": "A Lotus On Irish Streams",
+    "authors": [
+      "John McLaughlin"
+    ],
+    "volume": 3,
+    "page": 179
+  },
+  {
+    "title": "A New Thing",
+    "authors": [
+      "Slide Hampton"
+    ],
+    "volume": 2,
+    "page": 262
   },
   {
     "title": "A Night In Tunisia",
@@ -106,6 +163,57 @@ data.sheets = [
     ],
     "volume": 3,
     "page": 213
+  },
+  {
+    "title": "A Pretty Girl Is Like A Melody",
+    "authors": [
+      "Irving Berlin"
+    ],
+    "volume": 3,
+    "page": 243
+  },
+  {
+    "title": "A Remark You Made",
+    "authors": [
+      "Joe Zawinul"
+    ],
+    "volume": 2,
+    "page": 304
+  },
+  {
+    "title": "A Sleepin' Bee",
+    "authors": [
+      "Harold Arlen",
+      "Truman Capote"
+    ],
+    "volume": 3,
+    "page": 268
+  },
+  {
+    "title": "A Sleeping Bee",
+    "authors": [
+      "Harold Arlen",
+      "Truman Capote"
+    ],
+    "volume": 2,
+    "page": 412
+  },
+  {
+    "title": "A Time For Love",
+    "authors": [
+      "Johnny Mandel",
+      "Paul Francis Webster"
+    ],
+    "volume": 3,
+    "page": 315
+  },
+  {
+    "title": "A Walk'In Thing",
+    "authors": [
+      "Benny Carter"
+    ],
+    "volume": 2,
+    "page": 381
   },
   {
     "title": "Ablution",
@@ -521,7 +629,7 @@ data.sheets = [
   {
     "title": "Avalon Place",
     "authors": [
-      "Zucker"
+      "Jack Zucker"
     ],
     "volume": 3,
     "page": 14
@@ -569,7 +677,7 @@ data.sheets = [
   {
     "title": "Ballad For Anita",
     "authors": [
-      "Fraser"
+      "Bob Fraser"
     ],
     "volume": 3,
     "page": 15
@@ -670,7 +778,7 @@ data.sheets = [
   {
     "title": "Beethoven's Blue 3rd",
     "authors": [
-      "Kaiser"
+      "Ed Kaiser"
     ],
     "volume": 2,
     "page": 20
@@ -678,7 +786,7 @@ data.sheets = [
   {
     "title": "Beneath It All",
     "authors": [
-      "Anderson"
+      "Gary Anderson"
     ],
     "volume": 1,
     "page": 41
@@ -694,7 +802,7 @@ data.sheets = [
   {
     "title": "Beside Myself",
     "authors": [
-      "Stephens"
+      "Chip Stephens"
     ],
     "volume": 3,
     "page": 20
@@ -1162,15 +1270,6 @@ data.sheets = [
     "page": 40
   },
   {
-    "title": "Boy Next Door, The",
-    "authors": [
-      "Hugh Martin",
-      "Ralph Blane"
-    ],
-    "volume": 3,
-    "page": 37
-  },
-  {
     "title": "Brainville",
     "authors": [
       "Sun Ra"
@@ -1197,7 +1296,7 @@ data.sheets = [
   {
     "title": "Bright Boy",
     "authors": [
-      "Bright"
+      "Kendall Bright"
     ],
     "volume": 2,
     "page": 43
@@ -1294,7 +1393,7 @@ data.sheets = [
   {
     "title": "Busch-Wacked",
     "authors": [
-      "Zucker"
+      "Jack Zucker"
     ],
     "volume": 3,
     "page": 41
@@ -1434,7 +1533,9 @@ data.sheets = [
   },
   {
     "title": "Careless Love",
-    "authors": [],
+    "authors": [
+      "Traditional"
+    ],
     "volume": 2,
     "page": 55
   },
@@ -1485,14 +1586,6 @@ data.sheets = [
     ],
     "volume": 3,
     "page": 49
-  },
-  {
-    "title": "Chase, The",
-    "authors": [
-      "Tadd Dameron"
-    ],
-    "volume": 2,
-    "page": 59
   },
   {
     "title": "Chasin' The Trane",
@@ -1739,14 +1832,6 @@ data.sheets = [
     "page": 94
   },
   {
-    "title": "Core, The",
-    "authors": [
-      "Freddie Hubbard"
-    ],
-    "volume": 2,
-    "page": 64
-  },
-  {
     "title": "Cork \"N\" Bib",
     "authors": [
       "Lee Konitz"
@@ -1887,14 +1972,6 @@ data.sheets = [
     "page": 59
   },
   {
-    "title": "Day In Vienna, A",
-    "authors": [
-      "Slide Hampton"
-    ],
-    "volume": 2,
-    "page": 71
-  },
-  {
     "title": "Day In, Day Out",
     "authors": [
       "Johnny Mercer",
@@ -1920,15 +1997,6 @@ data.sheets = [
     "page": 104
   },
   {
-    "title": "Days Of Wine And Roses, The",
-    "authors": [
-      "Henry Mancini",
-      "Johnny Mercer"
-    ],
-    "volume": 1,
-    "page": 105
-  },
-  {
     "title": "De Pois De Amor O'Vazio",
     "authors": [
       "Wayne Shorter"
@@ -1939,7 +2007,7 @@ data.sheets = [
   {
     "title": "Dear Old Stockholm",
     "authors": [
-      "Varmeland"
+      "Traditional"
     ],
     "volume": 1,
     "page": 108
@@ -2086,15 +2154,6 @@ data.sheets = [
     "page": 122
   },
   {
-    "title": "Dolphin, The",
-    "authors": [
-      "Luiz Eça",
-      "Norman Gimbel"
-    ],
-    "volume": 1,
-    "page": 121
-  },
-  {
     "title": "Domingo",
     "authors": [
       "Benny Golson"
@@ -2192,14 +2251,6 @@ data.sheets = [
     "page": 71
   },
   {
-    "title": "Drive, The",
-    "authors": [
-      "Oliver Nelson"
-    ],
-    "volume": 2,
-    "page": 81
-  },
-  {
     "title": "Duff",
     "authors": [
       "Hampton Hawes"
@@ -2208,17 +2259,9 @@ data.sheets = [
     "page": 70
   },
   {
-    "title": "Duke, The",
-    "authors": [
-      "Dave Brubeck"
-    ],
-    "volume": 1,
-    "page": 127
-  },
-  {
     "title": "E.K.'s Blues",
     "authors": [
-      "Kaiser"
+      "Ed Kaiser"
     ],
     "volume": 2,
     "page": 92
@@ -2370,17 +2413,9 @@ data.sheets = [
     "page": 86
   },
   {
-    "title": "End Of A Love Affair, The",
-    "authors": [
-      "Edward Redding"
-    ],
-    "volume": 3,
-    "page": 75
-  },
-  {
     "title": "Endlessly",
     "authors": [
-      "Asher"
+      "Michael Asher"
     ],
     "volume": 3,
     "page": 76
@@ -2589,14 +2624,6 @@ data.sheets = [
     "page": 94
   },
   {
-    "title": "Fields We Know, The",
-    "authors": [
-      "Keith Jarrett"
-    ],
-    "volume": 1,
-    "page": 151
-  },
-  {
     "title": "First Moves",
     "authors": [
       "Sonny Rollins"
@@ -2651,14 +2678,6 @@ data.sheets = [
     ],
     "volume": 2,
     "page": 100
-  },
-  {
-    "title": "Flower Is A Lonesome Thing, A",
-    "authors": [
-      "Billy Strayhorn"
-    ],
-    "volume": 2,
-    "page": 101
   },
   {
     "title": "Fly By Night",
@@ -2875,7 +2894,9 @@ data.sheets = [
   },
   {
     "title": "From The Heart",
-    "authors": [],
+    "authors": [
+      "Gary Aprile"
+    ],
     "volume": 3,
     "page": 92
   },
@@ -3008,31 +3029,12 @@ data.sheets = [
     "page": 117
   },
   {
-    "title": "Ghost Of A Chance, A",
-    "authors": [
-      "Victor Young",
-      "Ned Washington"
-    ],
-    "volume": 2,
-    "page": 121
-  },
-  {
     "title": "Giantsteps",
     "authors": [
       "John Coltrane"
     ],
     "volume": 1,
     "page": 170
-  },
-  {
-    "title": "Girl From Ipanema, The",
-    "authors": [
-      "Antonio Carlos Jobim",
-      "Vinicius de Moraes",
-      "Norman Gimbel"
-    ],
-    "volume": 1,
-    "page": 171
   },
   {
     "title": "Girl Talk",
@@ -3053,7 +3055,7 @@ data.sheets = [
   {
     "title": "Gnu Blu",
     "authors": [
-      "Busch"
+      "Ron Busch"
     ],
     "volume": 3,
     "page": 97
@@ -3248,7 +3250,7 @@ data.sheets = [
   {
     "title": "Happy Little Sunbeam",
     "authors": [
-      "Freeman"
+      "Russ Freeman"
     ],
     "volume": 2,
     "page": 133
@@ -3264,7 +3266,7 @@ data.sheets = [
   {
     "title": "Harlequin",
     "authors": [
-      "Oscar Pettiford"
+      "Wayne Shorter"
     ],
     "volume": 2,
     "page": 136
@@ -3337,7 +3339,9 @@ data.sheets = [
   },
   {
     "title": "Henninger Flats",
-    "authors": [],
+    "authors": [
+      "David Pritchard"
+    ],
     "volume": 1,
     "page": 190
   },
@@ -3393,7 +3397,7 @@ data.sheets = [
   {
     "title": "High Hopes",
     "authors": [
-      "Fraser"
+      "Bob Fraser"
     ],
     "volume": 3,
     "page": 108
@@ -3629,7 +3633,9 @@ data.sheets = [
   },
   {
     "title": "I Got It Sad",
-    "authors": [],
+    "authors": [
+      "Duke Ellington"
+    ],
     "volume": 1,
     "page": 213
   },
@@ -4353,18 +4359,10 @@ data.sheets = [
     "page": 180
   },
   {
-    "title": "Japanese Waltz, A",
-    "authors": [
-      "Chick Corea"
-    ],
-    "volume": 3,
-    "page": 155
-  },
-  {
     "title": "Je Ne Sais Pas",
     "authors": [
-      "Hampton",
-      "Jones"
+      "Lionel Hampton",
+      "Jeri Jones"
     ],
     "volume": 2,
     "page": 182
@@ -4372,7 +4370,7 @@ data.sheets = [
   {
     "title": "Jeannine",
     "authors": [
-      "Parson"
+      "Duke Pearson"
     ],
     "volume": 2,
     "page": 181
@@ -4426,14 +4424,6 @@ data.sheets = [
     "page": 157
   },
   {
-    "title": "Jody Grind, The",
-    "authors": [
-      "Horace Silver"
-    ],
-    "volume": 2,
-    "page": 183
-  },
-  {
     "title": "Jordu",
     "authors": [
       "Duke Jordan"
@@ -4444,7 +4434,7 @@ data.sheets = [
   {
     "title": "Jorgie's",
     "authors": [
-      "Byad"
+      "Donald Byrd"
     ],
     "volume": 2,
     "page": 186
@@ -4631,14 +4621,6 @@ data.sheets = [
     "page": 198
   },
   {
-    "title": "Kicker, The",
-    "authors": [
-      "Joe Henderson"
-    ],
-    "volume": 2,
-    "page": 198
-  },
-  {
     "title": "Kids Are Pretty People",
     "authors": [
       "Thad Jones"
@@ -4687,15 +4669,6 @@ data.sheets = [
     "page": 256
   },
   {
-    "title": "Lady Is A Tramp, The",
-    "authors": [
-      "Richard Rodgers",
-      "Lorenz Hart"
-    ],
-    "volume": 3,
-    "page": 166
-  },
-  {
     "title": "Lady's Blues",
     "authors": [
       "Roland Kirk"
@@ -4726,15 +4699,6 @@ data.sheets = [
     ],
     "volume": 1,
     "page": 258
-  },
-  {
-    "title": "Last Page, The",
-    "authors": [
-      "Phil Woods",
-      "Gordon Beck"
-    ],
-    "volume": 2,
-    "page": 204
   },
   {
     "title": "Laura",
@@ -4845,7 +4809,7 @@ data.sheets = [
   {
     "title": "Lie Awake",
     "authors": [
-      "Coodley"
+      "Mitch Coodley"
     ],
     "volume": 1,
     "page": 261
@@ -4922,14 +4886,6 @@ data.sheets = [
     ],
     "volume": 1,
     "page": 266
-  },
-  {
-    "title": "Little Chicago Fire, A",
-    "authors": [
-      "Frank Foster"
-    ],
-    "volume": 2,
-    "page": 215
   },
   {
     "title": "Little Face",
@@ -5037,14 +4993,6 @@ data.sheets = [
     "page": 271
   },
   {
-    "title": "Long View, The",
-    "authors": [
-      "Paul Ferguson"
-    ],
-    "volume": 3,
-    "page": 176
-  },
-  {
     "title": "Lonnie's Lament",
     "authors": [
       "John Coltrane"
@@ -5063,26 +5011,10 @@ data.sheets = [
   {
     "title": "Looking Back",
     "authors": [
-      "Niles"
+      "Richard Niles"
     ],
     "volume": 1,
     "page": 275
-  },
-  {
-    "title": "Loop, The",
-    "authors": [
-      "Chick Corea"
-    ],
-    "volume": 3,
-    "page": 178
-  },
-  {
-    "title": "Lotus On Irish Streams, A",
-    "authors": [
-      "John McLaughlin"
-    ],
-    "volume": 3,
-    "page": 179
   },
   {
     "title": "Loud-Zee",
@@ -5136,7 +5068,7 @@ data.sheets = [
   {
     "title": "Lovers Rain Dance",
     "authors": [
-      "Stephens"
+      "Chip Stephens"
     ],
     "volume": 3,
     "page": 181
@@ -5200,14 +5132,6 @@ data.sheets = [
     "page": 226
   },
   {
-    "title": "Magician In You, The",
-    "authors": [
-      "Keith Jarrett"
-    ],
-    "volume": 1,
-    "page": 280
-  },
-  {
     "title": "Maiden Voyage",
     "authors": [
       "Herbie Hancock"
@@ -5251,15 +5175,6 @@ data.sheets = [
     "page": 282
   },
   {
-    "title": "Man I Love, The",
-    "authors": [
-      "George Gershwin",
-      "Ira Gershwin"
-    ],
-    "volume": 2,
-    "page": 229
-  },
-  {
     "title": "Man In The Green Shirt",
     "authors": [
       "Joe Zawinul"
@@ -5296,7 +5211,9 @@ data.sheets = [
   },
   {
     "title": "Masquerade",
-    "authors": [],
+    "authors": [
+      "Leon Russell"
+    ],
     "volume": 2,
     "page": 230
   },
@@ -5331,15 +5248,6 @@ data.sheets = [
     ],
     "volume": 3,
     "page": 191
-  },
-  {
-    "title": "Meaning Of The Blues, The",
-    "authors": [
-      "Bobby Troup",
-      "Leah Worth"
-    ],
-    "volume": 3,
-    "page": 192
   },
   {
     "title": "Meditation",
@@ -5409,7 +5317,7 @@ data.sheets = [
   {
     "title": "Mi Boj A Samba",
     "authors": [
-      "Aprile"
+      "Gary Aprile"
     ],
     "volume": 3,
     "page": 194
@@ -5579,14 +5487,6 @@ data.sheets = [
     "page": 243
   },
   {
-    "title": "Monster & The Flower, The",
-    "authors": [
-      "Claudio Roditi"
-    ],
-    "volume": 3,
-    "page": 200
-  },
-  {
     "title": "Montage",
     "authors": [
       "Stu Balcomb"
@@ -5668,15 +5568,6 @@ data.sheets = [
     ],
     "volume": 2,
     "page": 247
-  },
-  {
-    "title": "More I See You, The",
-    "authors": [
-      "Harry Warren",
-      "Mack Gordon"
-    ],
-    "volume": 1,
-    "page": 303
   },
   {
     "title": "Morning",
@@ -5947,20 +5838,11 @@ data.sheets = [
   {
     "title": "Neal's Blues",
     "authors": [
-      "Creque",
-      "Fraser"
+      "Neal Creque",
+      "Bob Fraser"
     ],
     "volume": 3,
     "page": 209
-  },
-  {
-    "title": "Nearness Of You, The",
-    "authors": [
-      "Hoagy Carmichael",
-      "Ned Washington"
-    ],
-    "volume": 2,
-    "page": 261
   },
   {
     "title": "Nefertiti",
@@ -5986,14 +5868,6 @@ data.sheets = [
     ],
     "volume": 1,
     "page": 318
-  },
-  {
-    "title": "New Thing, A",
-    "authors": [
-      "Slide Hampton"
-    ],
-    "volume": 2,
-    "page": 262
   },
   {
     "title": "Nica's Dream",
@@ -6028,21 +5902,6 @@ data.sheets = [
     ],
     "volume": 1,
     "page": 321
-  },
-  {
-    "title": "Night Has A Thousand Eyes",
-    "authors": [],
-    "volume": 1,
-    "page": 322
-  },
-  {
-    "title": "Night We Called It A Day, The",
-    "authors": [
-      "Matt Dennis",
-      "Tom Adair"
-    ],
-    "volume": 3,
-    "page": 212
   },
   {
     "title": "Nimbus",
@@ -6177,7 +6036,7 @@ data.sheets = [
   {
     "title": "Old Folks",
     "authors": [
-      "Blau"
+      "Eric Blau"
     ],
     "volume": 3,
     "page": 218
@@ -6317,7 +6176,7 @@ data.sheets = [
   {
     "title": "Only You Know",
     "authors": [
-      "Stephens"
+      "Chip Stephens"
     ],
     "volume": 3,
     "page": 224
@@ -6436,16 +6295,6 @@ data.sheets = [
     ],
     "volume": 2,
     "page": 281
-  },
-  {
-    "title": "Party's Over, The",
-    "authors": [
-      "Jule Styne",
-      "Betty Comden",
-      "Adolph Green"
-    ],
-    "volume": 3,
-    "page": 231
   },
   {
     "title": "Passion Dance",
@@ -6745,28 +6594,12 @@ data.sheets = [
     "page": 352
   },
   {
-    "title": "Preacher, The",
-    "authors": [
-      "Horace Silver"
-    ],
-    "volume": 2,
-    "page": 300
-  },
-  {
     "title": "Prelude To A Kiss",
     "authors": [
       "Duke Ellington"
     ],
     "volume": 1,
     "page": 353
-  },
-  {
-    "title": "Pretty Girl Is Like A Melody, A",
-    "authors": [
-      "Irving Berlin"
-    ],
-    "volume": 3,
-    "page": 243
   },
   {
     "title": "Prince Of Darkness",
@@ -6850,14 +6683,6 @@ data.sheets = [
     "page": 307
   },
   {
-    "title": "Raven, The",
-    "authors": [
-      "Keith Jarrett"
-    ],
-    "volume": 1,
-    "page": 357
-  },
-  {
     "title": "Re-Re",
     "authors": [
       "Bob Mintzer"
@@ -6872,14 +6697,6 @@ data.sheets = [
     ],
     "volume": 3,
     "page": 248
-  },
-  {
-    "title": "Real Guitarist, The",
-    "authors": [
-      "Steve Kuhn"
-    ],
-    "volume": 1,
-    "page": 358
   },
   {
     "title": "Recado Bossa Nova",
@@ -6936,14 +6753,6 @@ data.sheets = [
     ],
     "volume": 3,
     "page": 249
-  },
-  {
-    "title": "Remark You Made, A",
-    "authors": [
-      "Joe Zawinul"
-    ],
-    "volume": 2,
-    "page": 304
   },
   {
     "title": "Resolution",
@@ -7116,14 +6925,6 @@ data.sheets = [
     "page": 367
   },
   {
-    "title": "Scene Is Clean, The",
-    "authors": [
-      "Tadd Dameron"
-    ],
-    "volume": 2,
-    "page": 411
-  },
-  {
     "title": "Scotch 'n' Soda",
     "authors": [
       "Dave Guard"
@@ -7150,7 +6951,7 @@ data.sheets = [
   {
     "title": "Seabrook Revisited",
     "authors": [
-      "Zucker"
+      "Jack Zucker"
     ],
     "volume": 3,
     "page": 259
@@ -7158,8 +6959,8 @@ data.sheets = [
   {
     "title": "Secret Love",
     "authors": [
-      "Parish",
-      "Sherwood"
+      "Mitchell Parish",
+      "Bobby Sherwood"
     ],
     "volume": 3,
     "page": 260
@@ -7167,8 +6968,8 @@ data.sheets = [
   {
     "title": "Seems To Me",
     "authors": [
-      "Scott",
-      "Pace"
+      "Pat Scott",
+      "Pat Pace"
     ],
     "volume": 3,
     "page": 262
@@ -7317,7 +7118,7 @@ data.sheets = [
   {
     "title": "Short Riff",
     "authors": [
-      "Kaiser"
+      "Ed Kaiser"
     ],
     "volume": 2,
     "page": 356
@@ -7412,24 +7213,6 @@ data.sheets = [
     "page": 267
   },
   {
-    "title": "Sleepin' Bee, A",
-    "authors": [
-      "Harold Arlen",
-      "Truman Capote"
-    ],
-    "volume": 3,
-    "page": 268
-  },
-  {
-    "title": "Sleeping Bee, A",
-    "authors": [
-      "Harold Arlen",
-      "Truman Capote"
-    ],
-    "volume": 2,
-    "page": 412
-  },
-  {
     "title": "Slipped Disc",
     "authors": [
       "Benny Goodman"
@@ -7448,7 +7231,7 @@ data.sheets = [
   {
     "title": "Slowly Gone, Bygone",
     "authors": [
-      "Samuel"
+      "Dave Samuels"
     ],
     "volume": 1,
     "page": 385
@@ -7565,7 +7348,7 @@ data.sheets = [
   {
     "title": "Sometime Ago",
     "authors": [
-      "Mihanovich"
+      "Sergio Mihanovich"
     ],
     "volume": 1,
     "page": 392
@@ -7629,15 +7412,6 @@ data.sheets = [
     "page": 274
   },
   {
-    "title": "Song Is You, The",
-    "authors": [
-      "Jerome Kern",
-      "Oscar Hammerstein II"
-    ],
-    "volume": 1,
-    "page": 395
-  },
-  {
     "title": "Sonnymoon For Two",
     "authors": [
       "Sonny Rollins"
@@ -7660,14 +7434,6 @@ data.sheets = [
     ],
     "volume": 1,
     "page": 397
-  },
-  {
-    "title": "Sorcerer, The",
-    "authors": [
-      "Herbie Hancock"
-    ],
-    "volume": 1,
-    "page": 398
   },
   {
     "title": "Soul Eyes",
@@ -8004,16 +7770,6 @@ data.sheets = [
     "page": 349
   },
   {
-    "title": "Summer Knows, The",
-    "authors": [
-      "Michel Legrand",
-      "Alan Bergman",
-      "Marilyn Bergman"
-    ],
-    "volume": 2,
-    "page": 350
-  },
-  {
     "title": "Summertime",
     "authors": [
       "George Gershwin",
@@ -8042,7 +7798,9 @@ data.sheets = [
   },
   {
     "title": "Sunshine Express",
-    "authors": [],
+    "authors": [
+      "Bud Shank"
+    ],
     "volume": 2,
     "page": 351
   },
@@ -8056,7 +7814,9 @@ data.sheets = [
   },
   {
     "title": "Sweeping Up",
-    "authors": [],
+    "authors": [
+      "Steve Swallow"
+    ],
     "volume": 1,
     "page": 200
   },
@@ -8080,7 +7840,10 @@ data.sheets = [
   },
   {
     "title": "Sweet Henry",
-    "authors": [],
+    "authors": [
+      "Steve Swallow",
+      "Jack Gregg"
+    ],
     "volume": 1,
     "page": 418
   },
@@ -8102,22 +7865,18 @@ data.sheets = [
     "page": 419
   },
   {
-    "title": "Sweetest Sounds, The",
-    "authors": [
-      "Richard Rodgers"
-    ],
-    "volume": 2,
-    "page": 352
-  },
-  {
     "title": "Swing Dentz Swing",
-    "authors": [],
+    "authors": [
+      "Chick Corea"
+    ],
     "volume": 3,
     "page": 292
   },
   {
     "title": "Swing Shift",
-    "authors": [],
+    "authors": [
+      "Chuck Israels"
+    ],
     "volume": 3,
     "page": 294
   },
@@ -8131,7 +7890,9 @@ data.sheets = [
   },
   {
     "title": "Sy Clone",
-    "authors": [],
+    "authors": [
+      "Jack Zucker"
+    ],
     "volume": 3,
     "page": 295
   },
@@ -8144,8 +7905,10 @@ data.sheets = [
     "page": 354
   },
   {
-    "title": "T.J.R.C",
-    "authors": [],
+    "title": "T.J.R.C (Thad Jones Rhythm Changes)",
+    "authors": [
+      "Bill Dobbins"
+    ],
     "volume": 3,
     "page": 296
   },
@@ -8185,7 +7948,9 @@ data.sheets = [
   },
   {
     "title": "Tame Thy Pen",
-    "authors": [],
+    "authors": [
+      "Richard Niles"
+    ],
     "volume": 1,
     "page": 422
   },
@@ -8226,7 +7991,9 @@ data.sheets = [
   },
   {
     "title": "Teenie' Blues",
-    "authors": [],
+    "authors": [
+      "Oliver Nelson"
+    ],
     "volume": 2,
     "page": 361
   },
@@ -8274,7 +8041,41 @@ data.sheets = [
     "page": 301
   },
   {
-    "title": "The Disguise, The Sphinx",
+    "title": "The Boy Next Door",
+    "authors": [
+      "Hugh Martin",
+      "Ralph Blane"
+    ],
+    "volume": 3,
+    "page": 37
+  },
+  {
+    "title": "The Chase",
+    "authors": [
+      "Tadd Dameron"
+    ],
+    "volume": 2,
+    "page": 59
+  },
+  {
+    "title": "The Core",
+    "authors": [
+      "Freddie Hubbard"
+    ],
+    "volume": 2,
+    "page": 64
+  },
+  {
+    "title": "The Days Of Wine And Roses",
+    "authors": [
+      "Henry Mancini",
+      "Johnny Mercer"
+    ],
+    "volume": 1,
+    "page": 105
+  },
+  {
+    "title": "The Disguise",
     "authors": [
       "Ornette Coleman"
     ],
@@ -8282,14 +8083,324 @@ data.sheets = [
     "page": 4
   },
   {
+    "title": "The Dolphin",
+    "authors": [
+      "Luiz Eça",
+      "Norman Gimbel"
+    ],
+    "volume": 1,
+    "page": 121
+  },
+  {
+    "title": "The Drive",
+    "authors": [
+      "Oliver Nelson"
+    ],
+    "volume": 2,
+    "page": 81
+  },
+  {
+    "title": "The Duke",
+    "authors": [
+      "Dave Brubeck"
+    ],
+    "volume": 1,
+    "page": 127
+  },
+  {
+    "title": "The End Of A Love Affair",
+    "authors": [
+      "Edward Redding"
+    ],
+    "volume": 3,
+    "page": 75
+  },
+  {
+    "title": "The Fields We Know",
+    "authors": [
+      "Keith Jarrett"
+    ],
+    "volume": 1,
+    "page": 151
+  },
+  {
+    "title": "The Girl From Ipanema",
+    "authors": [
+      "Antonio Carlos Jobim",
+      "Vinicius de Moraes",
+      "Norman Gimbel"
+    ],
+    "volume": 1,
+    "page": 171
+  },
+  {
+    "title": "The Jody Grind",
+    "authors": [
+      "Horace Silver"
+    ],
+    "volume": 2,
+    "page": 183
+  },
+  {
+    "title": "The Kicker",
+    "authors": [
+      "Joe Henderson"
+    ],
+    "volume": 2,
+    "page": 198
+  },
+  {
+    "title": "The Lady Is A Tramp",
+    "authors": [
+      "Richard Rodgers",
+      "Lorenz Hart"
+    ],
+    "volume": 3,
+    "page": 166
+  },
+  {
+    "title": "The Last Page",
+    "authors": [
+      "Phil Woods",
+      "Gordon Beck"
+    ],
+    "volume": 2,
+    "page": 204
+  },
+  {
+    "title": "The Long View",
+    "authors": [
+      "Paul Ferguson"
+    ],
+    "volume": 3,
+    "page": 176
+  },
+  {
+    "title": "The Loop",
+    "authors": [
+      "Chick Corea"
+    ],
+    "volume": 3,
+    "page": 178
+  },
+  {
+    "title": "The Magician In You",
+    "authors": [
+      "Keith Jarrett"
+    ],
+    "volume": 1,
+    "page": 280
+  },
+  {
+    "title": "The Man I Love",
+    "authors": [
+      "George Gershwin",
+      "Ira Gershwin"
+    ],
+    "volume": 2,
+    "page": 229
+  },
+  {
+    "title": "The Meaning Of The Blues",
+    "authors": [
+      "Bobby Troup",
+      "Leah Worth"
+    ],
+    "volume": 3,
+    "page": 192
+  },
+  {
+    "title": "The Monster & The Flower",
+    "authors": [
+      "Claudio Roditi"
+    ],
+    "volume": 3,
+    "page": 200
+  },
+  {
+    "title": "The More I See You",
+    "authors": [
+      "Harry Warren",
+      "Mack Gordon"
+    ],
+    "volume": 1,
+    "page": 303
+  },
+  {
+    "title": "The Nearness Of You",
+    "authors": [
+      "Hoagy Carmichael",
+      "Ned Washington"
+    ],
+    "volume": 2,
+    "page": 261
+  },
+  {
+    "title": "The Night Has A Thousand Eyes",
+    "authors": [
+      "Jerry Brainin",
+      "Buddy Bernier"
+    ],
+    "volume": 1,
+    "page": 322
+  },
+  {
+    "title": "The Night We Called It A Day",
+    "authors": [
+      "Matt Dennis",
+      "Tom Adair"
+    ],
+    "volume": 3,
+    "page": 212
+  },
+  {
+    "title": "The Party's Over",
+    "authors": [
+      "Jule Styne",
+      "Betty Comden",
+      "Adolph Green"
+    ],
+    "volume": 3,
+    "page": 231
+  },
+  {
+    "title": "The Preacher",
+    "authors": [
+      "Horace Silver"
+    ],
+    "volume": 2,
+    "page": 300
+  },
+  {
+    "title": "The Raven",
+    "authors": [
+      "Keith Jarrett"
+    ],
+    "volume": 1,
+    "page": 357
+  },
+  {
+    "title": "The Real Guitarist",
+    "authors": [
+      "Steve Kuhn"
+    ],
+    "volume": 1,
+    "page": 358
+  },
+  {
+    "title": "The Scene Is Clean",
+    "authors": [
+      "Tadd Dameron"
+    ],
+    "volume": 2,
+    "page": 411
+  },
+  {
+    "title": "The Song Is You",
+    "authors": [
+      "Jerome Kern",
+      "Oscar Hammerstein II"
+    ],
+    "volume": 1,
+    "page": 395
+  },
+  {
+    "title": "The Sorcerer",
+    "authors": [
+      "Herbie Hancock"
+    ],
+    "volume": 1,
+    "page": 398
+  },
+  {
+    "title": "The Sphinx",
+    "authors": [
+      "Ornette Coleman"
+    ],
+    "volume": "1 Additions",
+    "page": 4
+  },
+  {
+    "title": "The Summer Knows",
+    "authors": [
+      "Michel Legrand",
+      "Alan Bergman",
+      "Marilyn Bergman"
+    ],
+    "volume": 2,
+    "page": 350
+  },
+  {
+    "title": "The Sweetest Sounds",
+    "authors": [
+      "Richard Rodgers"
+    ],
+    "volume": 2,
+    "page": 352
+  },
+  {
+    "title": "The Thrill Is Gone",
+    "authors": [
+      "Lew Brown",
+      "Ray Henderson"
+    ],
+    "volume": 3,
+    "page": 311
+  },
+  {
+    "title": "The Thumper",
+    "authors": [
+      "Jimmy Heath"
+    ],
+    "volume": 2,
+    "page": 356
+  },
+  {
+    "title": "The Tooch Of Your Lips",
+    "authors": [
+      "Ray Noble"
+    ],
+    "volume": 3,
+    "page": 324
+  },
+  {
+    "title": "The Very Thought Of You",
+    "authors": [
+      "Ray Noble"
+    ],
+    "volume": 3,
+    "page": 329
+  },
+  {
+    "title": "The Way You Look Tonight",
+    "authors": [
+      "Jerome Kern",
+      "Dorothy Fields"
+    ],
+    "volume": 2,
+    "page": 388
+  },
+  {
+    "title": "The Whopper",
+    "authors": [
+      "Pat Metheny"
+    ],
+    "volume": 2,
+    "page": 395
+  },
+  {
     "title": "Their's Tears",
-    "authors": [],
+    "authors": [
+      "Clare Fischer"
+    ],
     "volume": 3,
     "page": 307
   },
   {
     "title": "Theirs Tears",
-    "authors": [],
+    "authors": [
+      "Claire Fischer"
+    ],
     "volume": 2,
     "page": 363
   },
@@ -8303,7 +8414,9 @@ data.sheets = [
   },
   {
     "title": "Theme From Maxime",
-    "authors": [],
+    "authors": [
+      "Woody Shaw"
+    ],
     "volume": 3,
     "page": 302
   },
@@ -8397,7 +8510,9 @@ data.sheets = [
   },
   {
     "title": "Think On Me",
-    "authors": [],
+    "authors": [
+      "George Cables"
+    ],
     "volume": 1,
     "page": 428
   },
@@ -8420,30 +8535,27 @@ data.sheets = [
   },
   {
     "title": "Three And One",
-    "authors": [],
+    "authors": [
+      "Thad Jones"
+    ],
     "volume": 3,
     "page": 310
   },
   {
     "title": "Three Base Hit",
-    "authors": [],
+    "authors": [
+      "Pat Martino"
+    ],
     "volume": 2,
     "page": 413
   },
   {
     "title": "Three Flowers",
-    "authors": [],
+    "authors": [
+      "Myner McCoy"
+    ],
     "volume": 1,
     "page": 429
-  },
-  {
-    "title": "Thrill Is Gone, The",
-    "authors": [
-      "Lew Brown",
-      "Ray Henderson"
-    ],
-    "volume": 3,
-    "page": 311
   },
   {
     "title": "Thriving On A Riff",
@@ -8454,14 +8566,10 @@ data.sheets = [
     "page": 368
   },
   {
-    "title": "Thumper, The",
-    "authors": [],
-    "volume": 2,
-    "page": 356
-  },
-  {
     "title": "Thyme's Time",
-    "authors": [],
+    "authors": [
+      "Dean Newton"
+    ],
     "volume": 3,
     "page": 312
   },
@@ -8475,7 +8583,9 @@ data.sheets = [
   },
   {
     "title": "Tidal Breeze",
-    "authors": [],
+    "authors": [
+      "Harold Danko"
+    ],
     "volume": 3,
     "page": 314
   },
@@ -8497,21 +8607,6 @@ data.sheets = [
     "page": 371
   },
   {
-    "title": "Time For Love, A",
-    "authors": [
-      "Johnny Mandel",
-      "Paul Francis Webster"
-    ],
-    "volume": 3,
-    "page": 315
-  },
-  {
-    "title": "Time Lie",
-    "authors": [],
-    "volume": 3,
-    "page": 316
-  },
-  {
     "title": "Time Remembered",
     "authors": [
       "Bill Evans"
@@ -8520,10 +8615,21 @@ data.sheets = [
     "page": 432
   },
   {
-    "title": "Time Was",
-    "authors": [],
+    "title": "Time Was (Dreaming)",
+    "authors": [
+      "Sidney Keith",
+      "Miguel Prado"
+    ],
     "volume": 3,
     "page": 318
+  },
+  {
+    "title": "Time's Lie",
+    "authors": [
+      "Chick Corea"
+    ],
+    "volume": 3,
+    "page": 316
   },
   {
     "title": "Tiny Capers",
@@ -8535,31 +8641,41 @@ data.sheets = [
   },
   {
     "title": "Tippin'",
-    "authors": [],
+    "authors": [
+      "Horace Silver"
+    ],
     "volume": 2,
     "page": 372
   },
   {
     "title": "Tis'",
-    "authors": [],
+    "authors": [
+      "Thad Jones"
+    ],
     "volume": 3,
     "page": 320
   },
   {
     "title": "To Kill A Brick",
-    "authors": [],
+    "authors": [
+      "Woody Shaw"
+    ],
     "volume": 3,
     "page": 321
   },
   {
     "title": "Toad's Place",
-    "authors": [],
+    "authors": [
+      "Jeff Lorber"
+    ],
     "volume": 2,
     "page": 374
   },
   {
     "title": "Tomorrow's Destiny",
-    "authors": [],
+    "authors": [
+      "Woody Shaw"
+    ],
     "volume": 2,
     "page": 373
   },
@@ -8591,22 +8707,20 @@ data.sheets = [
     "page": 323
   },
   {
-    "title": "Tooch Of Your Lips, The",
-    "authors": [
-      "Ray Noble"
-    ],
-    "volume": 3,
-    "page": 324
-  },
-  {
     "title": "Tough Talk",
-    "authors": [],
+    "authors": [
+      "The Jazz Crusaders",
+      "Wayne Henderson",
+      "Joe Sample"
+    ],
     "volume": 1,
     "page": 433
   },
   {
     "title": "Train Samba",
-    "authors": [],
+    "authors": [
+      "Gary McFarland"
+    ],
     "volume": 1,
     "page": 434
   },
@@ -8644,7 +8758,9 @@ data.sheets = [
   },
   {
     "title": "Tune 88",
-    "authors": [],
+    "authors": [
+      "Jeff Lorber"
+    ],
     "volume": 3,
     "page": 326
   },
@@ -8657,18 +8773,20 @@ data.sheets = [
     "page": 437
   },
   {
-    "title": "Turn Around",
-    "authors": [],
-    "volume": 2,
-    "page": 377
-  },
-  {
     "title": "Turn Out The Stars",
     "authors": [
       "Bill Evans"
     ],
     "volume": 1,
     "page": 438
+  },
+  {
+    "title": "Turnaround",
+    "authors": [
+      "Ornette Coleman"
+    ],
+    "volume": 2,
+    "page": 377
   },
   {
     "title": "Twisted",
@@ -8681,7 +8799,9 @@ data.sheets = [
   },
   {
     "title": "Two Not One",
-    "authors": [],
+    "authors": [
+      "Lennie Tristano"
+    ],
     "volume": 2,
     "page": 378
   },
@@ -8710,14 +8830,18 @@ data.sheets = [
     "page": 439
   },
   {
-    "title": "Untitled Tune 478",
-    "authors": [],
+    "title": "Untitled",
+    "authors": [
+      "Michael Gibbs"
+    ],
     "volume": 1,
     "page": 478
   },
   {
-    "title": "Untitled Tune 478",
-    "authors": [],
+    "title": "Untitled",
+    "authors": [
+      "Pat Metheny"
+    ],
     "volume": 1,
     "page": 480
   },
@@ -8762,14 +8886,6 @@ data.sheets = [
     "page": 443
   },
   {
-    "title": "Very Thought Of You, The",
-    "authors": [
-      "Ray Noble"
-    ],
-    "volume": 3,
-    "page": 329
-  },
-  {
     "title": "Violets For Your Furs",
     "authors": [
       "Tom Adair",
@@ -8788,7 +8904,9 @@ data.sheets = [
   },
   {
     "title": "Vonetta",
-    "authors": [],
+    "authors": [
+      "Earl Klugh"
+    ],
     "volume": 2,
     "page": 379
   },
@@ -8819,12 +8937,6 @@ data.sheets = [
     "page": 382
   },
   {
-    "title": "Walk'In Thing, A",
-    "authors": [],
-    "volume": 2,
-    "page": 381
-  },
-  {
     "title": "Walkin'",
     "authors": [
       "Richard Carpenter"
@@ -8851,7 +8963,9 @@ data.sheets = [
   },
   {
     "title": "Wall-Eye Blues",
-    "authors": [],
+    "authors": [
+      "Arnold Loupacci"
+    ],
     "volume": 3,
     "page": 332
   },
@@ -8865,13 +8979,17 @@ data.sheets = [
   },
   {
     "title": "Waltz",
-    "authors": [],
+    "authors": [
+      "Pat Metheny"
+    ],
     "volume": 1,
     "page": 448
   },
   {
     "title": "Waltz For A Lovely Wife",
-    "authors": [],
+    "authors": [
+      "Phil Woods"
+    ],
     "volume": 1,
     "page": 449
   },
@@ -8928,7 +9046,9 @@ data.sheets = [
   },
   {
     "title": "Watersign",
-    "authors": [],
+    "authors": [
+      "Jeff Lorber"
+    ],
     "volume": 2,
     "page": 386
   },
@@ -8939,15 +9059,6 @@ data.sheets = [
     ],
     "volume": 1,
     "page": 452
-  },
-  {
-    "title": "Way You Look Tonight, The",
-    "authors": [
-      "Jerome Kern",
-      "Dorothy Fields"
-    ],
-    "volume": 2,
-    "page": 388
   },
   {
     "title": "We'll Be Together Again",
@@ -8968,7 +9079,9 @@ data.sheets = [
   },
   {
     "title": "Weekend Blues",
-    "authors": [],
+    "authors": [
+      "Ed Kaiser"
+    ],
     "volume": 2,
     "page": 389
   },
@@ -8982,13 +9095,17 @@ data.sheets = [
   },
   {
     "title": "Wendy",
-    "authors": [],
+    "authors": [
+      "Paul Desmond"
+    ],
     "volume": 2,
     "page": 390
   },
   {
     "title": "Wes Side Stroll",
-    "authors": [],
+    "authors": [
+      "Gary Aprile"
+    ],
     "volume": 3,
     "page": 336
   },
@@ -9160,12 +9277,6 @@ data.sheets = [
     "page": 343
   },
   {
-    "title": "Whopper, The",
-    "authors": [],
-    "volume": 2,
-    "page": 395
-  },
-  {
     "title": "Why Did I Choose You",
     "authors": [
       "Michael Leonard",
@@ -9234,7 +9345,10 @@ data.sheets = [
   },
   {
     "title": "With Every Breath I Take",
-    "authors": [],
+    "authors": [
+      "David Zippel",
+      "Cy Coleman"
+    ],
     "volume": 3,
     "page": 347
   },
@@ -9274,13 +9388,17 @@ data.sheets = [
   },
   {
     "title": "Wrong Is Right",
-    "authors": [],
+    "authors": [
+      "Pat Metheny"
+    ],
     "volume": 2,
     "page": 398
   },
   {
     "title": "Yana Amina",
-    "authors": [],
+    "authors": [
+      "George Duke"
+    ],
     "volume": 2,
     "page": 400
   },
