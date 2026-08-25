@@ -1,3 +1,7 @@
+function normalize(s) {
+  return s.normalize("NFD").replace(/\p{Diacritic}/gu, "").replace(/['’]/g, "").toLowerCase();
+}
+
 class Data {
   constructor() {
     this.curSheetIdx = null;
@@ -15,7 +19,7 @@ class Data {
       li.textContent = `${sheet.title} by ${sheet.authors.join(", ")}`;
       li.setAttribute(
         "data-fulltext",
-        `${sheet.title} ${sheet.authors.join(" ")}`.toLowerCase(),
+        normalize(`${sheet.title} ${sheet.authors.join(" ")}`),
       );
       fragment.appendChild(li);
     }
@@ -100,9 +104,9 @@ class Autocomplete {
     this.search.addEventListener("keydown", e => this.onKeyDown(e));
   }
   filter(e) {
-    const value = e.target.value.toLowerCase();
+    const tokens = normalize(e.target.value).split(/\s+/).filter(t => t !== "");
     for (const sheet of this.sheets.children) {
-      if (sheet.getAttribute("data-fulltext").includes(value)) {
+      if (tokens.every(t => sheet.getAttribute("data-fulltext").includes(t))) {
         sheet.classList.remove("filtered");
       } else {
         sheet.classList.add("filtered");
