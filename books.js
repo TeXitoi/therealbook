@@ -9,7 +9,10 @@ data.books = [
   {
     "volume": 1,
     "url": "https://www.swiss-jazz.ch/Real-Book/Volume-1-contrebasse.pdf",
-    "offsets": [{"to": 108, "offset": 10}, {"from": 109, "offset": 12}],
+    "offsets": [
+      {"to": 108, "offset": 10},
+      {"from": 109, "offset": 12}
+    ],
     "name": "The Real Book - Volume 1 Bass"
   },
   {
@@ -87,7 +90,12 @@ data.books = [
   {
     "volume": 3,
     "url": "https://www.swiss-jazz.ch/Real-Book/Volume-3-Bb.pdf",
-    "offsets": [{"offset": 8}],
+    "offsets": [
+      {"to": 310, "offset": 8},
+      {"from": 311, "to": 312, "offset": 10},
+      {"from": 313, "to": 314, "offset": 6},
+      {"from": 315, "offset": 8}
+    ],
     "name": "The Real Book - Volume 3 Bb"
   }
 ];
