@@ -635,7 +635,7 @@ data.sheets = [
     "page": 14
   },
   {
-    "title": "Ay, Arriba !",
+    "title": "Ay, Arriba!",
     "authors": [
       "Stu Balcomb"
     ],
@@ -3135,7 +3135,7 @@ data.sheets = [
     "page": 175
   },
   {
-    "title": "Got A Match ?",
+    "title": "Got A Match?",
     "authors": [
       "Chick Corea"
     ],
@@ -4217,7 +4217,7 @@ data.sheets = [
     "page": 150
   },
   {
-    "title": "Is It Really Tru ?",
+    "title": "Is It Really True?",
     "authors": [
       "Joanne Brackeen"
     ],
@@ -6017,7 +6017,7 @@ data.sheets = [
     "page": 270
   },
   {
-    "title": "Oh Lady Be Good !",
+    "title": "Oh, Lady Be Good!",
     "authors": [
       "George Gershwin"
     ],
@@ -6265,7 +6265,7 @@ data.sheets = [
     "page": 229
   },
   {
-    "title": "Ow !",
+    "title": "Ow!",
     "authors": [
       "Dizzy Gillespie"
     ],

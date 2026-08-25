@@ -8,7 +8,7 @@ class Data {
     const sheets = document.getElementById("sheets");
     sheets.innerHTML = "";
     const fragment = document.createDocumentFragment();
-    for (const [idx, sheet] of Object.entries(data.sheets)) {
+    for (const [idx, sheet] of data.sheets.entries()) {
       const li = document.createElement("li");
       li.addEventListener("click", () => this.display(idx));
       li.textContent = `${sheet.title} by ${sheet.authors.join(", ")}`;
@@ -20,21 +20,20 @@ class Data {
     }
     sheets.appendChild(fragment);
   }
-  display(sheetId, bookId) {
-    if (sheetId === undefined) { return; }
-    const sheet = data.sheets[sheetId];
+  display(sheetIdx, bookIdx) {
+    const sheet = data.sheets[sheetIdx];
     if (!sheet) { return; }
-    const books = data.books.filter(b => b.volume == sheet.volume && this.realPage(b, sheet) !== null);
-    if (sheetId === this.curSheetId && bookId === undefined) {
-      bookId = (this.curBookId + 1) % books.length;
-    } else if (bookId === undefined) {
-      bookId = 0;
+    const books = data.books.filter(b => b.volume === sheet.volume && this.realPage(b, sheet) !== null);
+    if (sheetIdx === this.curSheetIdx && bookIdx === undefined) {
+      bookIdx = (this.curBookIdx + 1) % books.length;
+    } else if (!(bookIdx in books)) {
+      bookIdx = 0;
     }
-    if (this.curSheetId === sheetId && this.curBookId === bookId) { return; }
+    if (this.curSheetIdx === sheetIdx && this.curBookIdx === bookIdx) { return; }
 
-    this.curSheetId = sheetId;
-    this.curBookId = bookId;
-    history.replaceState(null, "", `#${sheetId}/${bookId}`);
+    this.curSheetIdx = sheetIdx;
+    this.curBookIdx = bookIdx;
+    history.replaceState(null, "", `#${sheetIdx}/${bookIdx}`);
 
     const e = document.getElementById("sheet");
     const c = document.createElement("object");
@@ -42,7 +41,7 @@ class Data {
     c.setAttribute("type", "application/pdf");
     c.setAttribute(
       "data",
-      `${books[bookId].url}#page=${this.realPage(books[bookId], sheet)}`,
+      `${books[bookIdx].url}#page=${this.realPage(books[bookIdx], sheet)}`,
     );
     e.replaceWith(c);
 
@@ -51,21 +50,21 @@ class Data {
     document.title = `${title} — The Real Book`;
 
     this.alternatives.replaceChildren();
-    books.forEach((book, id) => {
+    for (const [idx, book] of books.entries()) {
       const li = document.createElement("li");
       li.textContent = book.name;
-      if (id === this.curBookId) {
+      if (idx === this.curBookIdx) {
         li.classList.add("displayed");
       } else {
-        li.addEventListener("click", () => this.display(sheetId, id));
+        li.addEventListener("click", () => this.display(sheetIdx, idx));
       }
       this.alternatives.appendChild(li);
-    });
+    }
   }
   realPage(book, sheet) {
     for (const offset of book.offsets) {
-      if (offset.from && sheet.page < offset.from) { continue; }
-      if (offset.to && offset.to < sheet.page) { continue; }
+      if (offset.from !== undefined && sheet.page < offset.from) { continue; }
+      if (offset.to !== undefined && offset.to < sheet.page) { continue; }
       return offset.offset + sheet.page;
     }
     return null;
@@ -137,7 +136,7 @@ class Autocomplete {
 const app = new Data();
 const autocomplete = new Autocomplete();
 autocomplete.search.focus();
-const [sheetId, bookId] = location.hash.slice(1).split("/");
-if (sheetId !== "") {
-  app.display(Number(sheetId), Number(bookId));
+const [sheetIdx, bookIdx] = location.hash.slice(1).split("/");
+if (sheetIdx !== "" ) {
+  app.display(Number(sheetIdx), Number(bookIdx));
 }
