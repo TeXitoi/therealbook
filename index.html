@@ -5,13 +5,27 @@
   <meta charset="utf-8">
   <title>The Real Book</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="therealbook.png">
   <script src="sheets.js" defer></script>
   <script src="books.js" defer></script>
   <script src="script.js" defer></script>
 </head>
 <body>
-  <object id="sheet" type="application/pdf">
-    Sheet not available.
+  <object id="sheet">
+    <div id="welcome">
+      <h1>The Real Book Sheet Index</h1>
+      <p>
+        This site provide an index for the original Real Books,
+        findable as PDF. The PDFs are not distributed by this site,
+        but fetched elsewhere. To be used for historical and
+        educational purpose. Please buy the original sheets if you use
+        them.
+      </p>
+      <p>
+        For feedbacks, bug report and documentation,
+        see <a href="https://github.com/TeXitoi/therealbook">Github</a>.
+      </p>
+    </div>
   </object>
   <div id="content">
     <h1 id="title">No sheet selected</h1>
@@ -20,6 +34,10 @@
     <h1>Sheets</h1>
     <input type="text" id="search" placeholder="type a title or an artist"/>
     <ul id="sheets"></ul>
+  </div>
+  <div id="foot">
+    Feedbacks, bug reports and doc
+    on <a href="https://github.com/TeXitoi/therealbook">Github</a>
   </div>
 </body>
 </html>

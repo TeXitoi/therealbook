@@ -21,6 +21,7 @@ class Data {
     sheets.appendChild(fragment);
   }
   display(sheetId, bookId) {
+    if (sheetId === undefined) { return; }
     const sheet = data.sheets[sheetId];
     if (!sheet) { return; }
     const books = data.books.filter(b => b.volume == sheet.volume && this.realPage(b, sheet) !== null);
@@ -36,7 +37,9 @@ class Data {
     history.replaceState(null, "", `#${sheetId}/${bookId}`);
 
     const e = document.getElementById("sheet");
-    const c = e.cloneNode();
+    const c = document.createElement("object");
+    c.id = "sheet";
+    c.setAttribute("type", "application/pdf");
     c.setAttribute(
       "data",
       `${books[bookId].url}#page=${this.realPage(books[bookId], sheet)}`,
@@ -134,5 +137,7 @@ class Autocomplete {
 const app = new Data();
 const autocomplete = new Autocomplete();
 autocomplete.search.focus();
-const [sheetId, bookId] = location.hash.slice(1).split("/").map(Number);
-app.display(sheetId, bookId);
+const [sheetId, bookId] = location.hash.slice(1).split("/");
+if (sheetId !== "") {
+  app.display(Number(sheetId), Number(bookId));
+}

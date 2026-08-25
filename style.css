@@ -11,6 +11,18 @@ body {
 #sheet {
     flex: 0 0 75vh;
     height: 100vh;
+    #welcome {
+        margin: 1em;
+    }
+}
+
+#foot {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border: 1px solid grey;
+    background: white;
+    padding: 0.2em;
 }
 
 #content {
