@@ -4,6 +4,7 @@ class Data {
     this.curBookIdx = null;
     this.title = document.getElementById("title");
     this.alternatives = document.getElementById("alternatives");
+    this.welcome = document.getElementById("sheet");
 
     const sheets = document.getElementById("sheets");
     sheets.innerHTML = "";
@@ -33,7 +34,8 @@ class Data {
 
     this.curSheetIdx = sheetIdx;
     this.curBookIdx = bookIdx;
-    history.replaceState(null, "", `#${sheetIdx}/${bookIdx}`);
+    const hash = `#${sheetIdx}/${bookIdx}`;
+    if (location.hash !== hash) { history.pushState(null, "", hash); }
 
     const e = document.getElementById("sheet");
     const c = document.createElement("object");
@@ -59,6 +61,23 @@ class Data {
         li.addEventListener("click", () => this.display(sheetIdx, idx));
       }
       this.alternatives.appendChild(li);
+    }
+  }
+  clear() {
+    if (this.curSheetIdx === null) { return; }
+    this.curSheetIdx = null;
+    this.curBookIdx = null;
+    document.getElementById("sheet").replaceWith(this.welcome);
+    this.title.textContent = "No sheet selected";
+    document.title = "The Real Book";
+    this.alternatives.replaceChildren();
+  }
+  fromHash() {
+    const [sheetIdx, bookIdx] = location.hash.slice(1).split("/");
+    if (sheetIdx === "") {
+      this.clear();
+    } else {
+      this.display(Number(sheetIdx), Number(bookIdx));
     }
   }
   realPage(book, sheet) {
@@ -136,7 +155,5 @@ class Autocomplete {
 const app = new Data();
 const autocomplete = new Autocomplete();
 autocomplete.search.focus();
-const [sheetIdx, bookIdx] = location.hash.slice(1).split("/");
-if (sheetIdx !== "" ) {
-  app.display(Number(sheetIdx), Number(bookIdx));
-}
+addEventListener("hashchange", () => app.fromHash());
+app.fromHash();
