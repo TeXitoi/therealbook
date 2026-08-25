@@ -2332,7 +2332,7 @@ data.sheets = [
     "page": 132
   },
   {
-    "title": "Eighty One",
+    "title": "Eighty-One",
     "authors": [
       "Ron Carter"
     ],
@@ -2426,7 +2426,7 @@ data.sheets = [
       "Bill Evans"
     ],
     "volume": 2,
-    "page": 86
+    "page": 87
   },
   {
     "title": "Epistrophy",
@@ -3954,7 +3954,7 @@ data.sheets = [
     "page": 38
   },
   {
-    "title": "Idalupino",
+    "title": "Ida Lupino",
     "authors": [
       "Carla Bley"
     ],
