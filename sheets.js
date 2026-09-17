@@ -35,7 +35,7 @@ data.sheets = [
   {
     "title": "52nd Street Theme",
     "authors": [
-      "Thelonius Monk"
+      "Thelonious Monk"
     ],
     "volume": 2,
     "page": 93
@@ -181,22 +181,22 @@ data.sheets = [
     "page": 304
   },
   {
-    "title": "A Sleepin' Bee",
-    "authors": [
-      "Harold Arlen",
-      "Truman Capote"
-    ],
-    "volume": 3,
-    "page": 268
-  },
-  {
-    "title": "A Sleeping Bee",
+    "title": "A Sleepin' Bee (Volume 2)",
     "authors": [
       "Harold Arlen",
       "Truman Capote"
     ],
     "volume": 2,
     "page": 412
+  },
+  {
+    "title": "A Sleepin' Bee (Volume 3)",
+    "authors": [
+      "Harold Arlen",
+      "Truman Capote"
+    ],
+    "volume": 3,
+    "page": 268
   },
   {
     "title": "A Time For Love",
@@ -500,7 +500,7 @@ data.sheets = [
   {
     "title": "April",
     "authors": [
-      "Lenny Tristano"
+      "Lennie Tristano"
     ],
     "volume": 2,
     "page": 10
@@ -604,6 +604,8 @@ data.sheets = [
   {
     "title": "Autumn Leaves",
     "authors": [
+      "Joseph Kosma",
+      "Jacques Prévert",
       "Joseph Kosma"
     ],
     "volume": 1,
@@ -832,20 +834,20 @@ data.sheets = [
     "page": 25
   },
   {
-    "title": "Better Git In Your Soul",
-    "authors": [
-      "Charles Mingus"
-    ],
-    "volume": 3,
-    "page": 26
-  },
-  {
-    "title": "Better Git It In Your Soul",
+    "title": "Better Git It In Your Soul (Volume 2)",
     "authors": [
       "Charles Mingus"
     ],
     "volume": 2,
     "page": 22
+  },
+  {
+    "title": "Better Git It In Your Soul (Volume 3)",
+    "authors": [
+      "Charles Mingus"
+    ],
+    "volume": 3,
+    "page": 26
   },
   {
     "title": "Bewitched",
@@ -979,7 +981,7 @@ data.sheets = [
   {
     "title": "Black Orpheus",
     "authors": [
-      "Louis Bonfa"
+      "Luiz Bonfá"
     ],
     "volume": 1,
     "page": 49
@@ -1516,7 +1518,7 @@ data.sheets = [
     "page": 53
   },
   {
-    "title": "Careful",
+    "title": "Careful (Volume 2)",
     "authors": [
       "Jim Hall"
     ],
@@ -1524,7 +1526,7 @@ data.sheets = [
     "page": 54
   },
   {
-    "title": "Careful",
+    "title": "Careful (Volume 3)",
     "authors": [
       "Jim Hall"
     ],
@@ -2358,7 +2360,7 @@ data.sheets = [
   {
     "title": "Elizete",
     "authors": [
-      "Claire Fischer"
+      "Clare Fischer"
     ],
     "volume": 1,
     "page": 136
@@ -2729,17 +2731,7 @@ data.sheets = [
     "page": 157
   },
   {
-    "title": "For Heaven's Sake",
-    "authors": [
-      "Sherman Edwards",
-      "Don Meyer",
-      "Elise Bretton"
-    ],
-    "volume": 3,
-    "page": 87
-  },
-  {
-    "title": "For Heavens Sake",
+    "title": "For Heaven's Sake (Volume 1)",
     "authors": [
       "Sherman Edwards",
       "Don Meyer",
@@ -2747,6 +2739,16 @@ data.sheets = [
     ],
     "volume": 1,
     "page": 159
+  },
+  {
+    "title": "For Heaven's Sake (Volume 3)",
+    "authors": [
+      "Sherman Edwards",
+      "Don Meyer",
+      "Elise Bretton"
+    ],
+    "volume": 3,
+    "page": 87
   },
   {
     "title": "For Minors Only",
@@ -2879,7 +2881,7 @@ data.sheets = [
   {
     "title": "Friday The 13th",
     "authors": [
-      "Joanne Brackeen"
+      "Thelonious Monk"
     ],
     "volume": 3,
     "page": 90
@@ -2959,7 +2961,7 @@ data.sheets = [
   {
     "title": "Gaviota",
     "authors": [
-      "Claire Fischer"
+      "Clare Fischer"
     ],
     "volume": 3,
     "page": 98
@@ -2981,17 +2983,17 @@ data.sheets = [
     "page": 168
   },
   {
-    "title": "Gentle Rain",
+    "title": "The Gentle Rain (Volume 1)",
     "authors": [
-      "Louis Bonfa"
+      "Luiz Bonfá"
     ],
     "volume": 1,
     "page": 169
   },
   {
-    "title": "Gentle Rain",
+    "title": "The Gentle Rain (Volume 2)",
     "authors": [
-      "Louis Bonfa"
+      "Luiz Bonfá"
     ],
     "volume": 2,
     "page": 122
@@ -3039,7 +3041,7 @@ data.sheets = [
   {
     "title": "Girl Talk",
     "authors": [
-      "Neil Hefti"
+      "Neal Hefti"
     ],
     "volume": 2,
     "page": 122
@@ -3720,6 +3722,8 @@ data.sheets = [
   {
     "title": "I Should Care",
     "authors": [
+      "Axel Stordahl",
+      "Paul Weston",
       "Sammy Cahn"
     ],
     "volume": 1,
@@ -3827,7 +3831,7 @@ data.sheets = [
     "title": "I'm All Smiles",
     "authors": [
       "Michael Leonard",
-      "Herb Martin"
+      "Herbert Martin"
     ],
     "volume": 1,
     "page": 216
@@ -4400,7 +4404,7 @@ data.sheets = [
     "page": 244
   },
   {
-    "title": "Jitterbug Waltz",
+    "title": "Jitterbug Waltz (Db major)",
     "authors": [
       "Fats Waller"
     ],
@@ -4408,7 +4412,7 @@ data.sheets = [
     "page": 184
   },
   {
-    "title": "Jitterbug Waltz",
+    "title": "Jitterbug Waltz (Eb major)",
     "authors": [
       "Fats Waller"
     ],
@@ -5234,7 +5238,7 @@ data.sheets = [
     "page": 287
   },
   {
-    "title": "May-Reh",
+    "title": "Mayreh (Volume 2)",
     "authors": [
       "Horace Silver"
     ],
@@ -5242,7 +5246,7 @@ data.sheets = [
     "page": 231
   },
   {
-    "title": "Mayreh",
+    "title": "Mayreh (Volume 3)",
     "authors": [
       "Horace Silver"
     ],
@@ -5293,7 +5297,7 @@ data.sheets = [
   {
     "title": "Menina Flor",
     "authors": [
-      "Louis Bonfa"
+      "Luiz Bonfá"
     ],
     "volume": 2,
     "page": 234
@@ -5572,7 +5576,7 @@ data.sheets = [
   {
     "title": "Morning",
     "authors": [
-      "Claire Fischer"
+      "Clare Fischer"
     ],
     "volume": 2,
     "page": 248
@@ -5617,14 +5621,6 @@ data.sheets = [
     ],
     "volume": 2,
     "page": 251
-  },
-  {
-    "title": "Mr. Broadway, Theme From",
-    "authors": [
-      "Dave Brubeck"
-    ],
-    "volume": 2,
-    "page": 252
   },
   {
     "title": "Mr. Clean",
@@ -5683,7 +5679,7 @@ data.sheets = [
     "page": 256
   },
   {
-    "title": "Muezzin'",
+    "title": "Muezzin' (Volume 2)",
     "authors": [
       "Pepper Adams"
     ],
@@ -5691,7 +5687,7 @@ data.sheets = [
     "page": 257
   },
   {
-    "title": "Muezzin'",
+    "title": "Muezzin' (Volume 3)",
     "authors": [
       "Pepper Adams"
     ],
@@ -5720,7 +5716,7 @@ data.sheets = [
     "title": "My Funny Valentine",
     "authors": [
       "Richard Rodgers",
-      "Oscar Hammerstein II"
+      "Lorenz Hart"
     ],
     "volume": 1,
     "page": 308
@@ -6066,7 +6062,7 @@ data.sheets = [
     "page": 8
   },
   {
-    "title": "On A Clear Day",
+    "title": "On A Clear Day (Volume 2)",
     "authors": [
       "Alan Jay Lerner",
       "Burton Lane"
@@ -6075,7 +6071,7 @@ data.sheets = [
     "page": 273
   },
   {
-    "title": "On A Clear Day",
+    "title": "On A Clear Day (Volume 3)",
     "authors": [
       "Alan Jay Lerner",
       "Burton Lane"
@@ -6160,7 +6156,7 @@ data.sheets = [
   {
     "title": "One For Daddy-O",
     "authors": [
-      "Horace Silver"
+      "Nat Adderley"
     ],
     "volume": 2,
     "page": 278
@@ -6844,7 +6840,7 @@ data.sheets = [
     "page": 325
   },
   {
-    "title": "Saint Thomas",
+    "title": "Saint Thomas (Volume 2)",
     "authors": [
       "Sonny Rollins"
     ],
@@ -6852,7 +6848,7 @@ data.sheets = [
     "page": 315
   },
   {
-    "title": "Saint Thomas",
+    "title": "Saint Thomas (Volume 3)",
     "authors": [
       "Sonny Rollins"
     ],
@@ -6871,7 +6867,7 @@ data.sheets = [
   {
     "title": "Samba De Orfeu",
     "authors": [
-      "Louis Bonfa"
+      "Luiz Bonfá"
     ],
     "volume": 3,
     "page": 254
@@ -7180,7 +7176,7 @@ data.sheets = [
     "page": 325
   },
   {
-    "title": "Sister Sadie",
+    "title": "Sister Sadie (Volume 2)",
     "authors": [
       "Horace Silver"
     ],
@@ -7188,7 +7184,7 @@ data.sheets = [
     "page": 324
   },
   {
-    "title": "Sister Sadie",
+    "title": "Sister Sadie (Volume 3)",
     "authors": [
       "Horace Silver"
     ],
@@ -7533,7 +7529,7 @@ data.sheets = [
     "page": 278
   },
   {
-    "title": "Spring Can Really Hang You Up The Most",
+    "title": "Spring Can Really Hang You Up The Most (Volume 2)",
     "authors": [
       "Fran Landesman",
       "Tommy Wolf"
@@ -7542,7 +7538,7 @@ data.sheets = [
     "page": 339
   },
   {
-    "title": "Spring Can Really Hang You Up The Most",
+    "title": "Spring Can Really Hang You Up The Most (Volume 3)",
     "authors": [
       "Fran Landesman",
       "Tommy Wolf"
@@ -7584,7 +7580,7 @@ data.sheets = [
     "page": 283
   },
   {
-    "title": "Star Eyes",
+    "title": "Star Eyes (F major)",
     "authors": [
       "Gene de Paul",
       "Don Raye"
@@ -7593,7 +7589,7 @@ data.sheets = [
     "page": 341
   },
   {
-    "title": "Star Eyes",
+    "title": "Star Eyes (Eb major)",
     "authors": [
       "Gene de Paul",
       "Don Raye"
@@ -8389,7 +8385,15 @@ data.sheets = [
     "page": 395
   },
   {
-    "title": "Their's Tears",
+    "title": "Their's Tears (Volume 2)",
+    "authors": [
+      "Clare Fischer"
+    ],
+    "volume": 2,
+    "page": 363
+  },
+  {
+    "title": "Their's Tears (Volume 3)",
     "authors": [
       "Clare Fischer"
     ],
@@ -8397,28 +8401,20 @@ data.sheets = [
     "page": 307
   },
   {
-    "title": "Theirs Tears",
-    "authors": [
-      "Claire Fischer"
-    ],
-    "volume": 2,
-    "page": 363
-  },
-  {
-    "title": "Theme From Broadway",
-    "authors": [
-      "Dave Brubeck"
-    ],
-    "volume": 2,
-    "page": 252
-  },
-  {
-    "title": "Theme From Maxime",
+    "title": "Theme From Maxine",
     "authors": [
       "Woody Shaw"
     ],
     "volume": 3,
     "page": 302
+  },
+  {
+    "title": "Theme From: \"Mr. Broadway\"",
+    "authors": [
+      "Dave Brubeck"
+    ],
+    "volume": 2,
+    "page": 252
   },
   {
     "title": "Then I'll Be Tired Of You",
@@ -8483,7 +8479,7 @@ data.sheets = [
     "page": 306
   },
   {
-    "title": "Things Ain't What They Used To Be",
+    "title": "Things Ain't What They Used To Be (Volume 2)",
     "authors": [
       "Duke Ellington",
       "Mercer Ellington"
@@ -8492,7 +8488,7 @@ data.sheets = [
     "page": 365
   },
   {
-    "title": "Things Ain't What They Used To Be",
+    "title": "Things Ain't What They Used To Be (Volume 3)",
     "authors": [
       "Duke Ellington",
       "Mercer Ellington"
@@ -9011,22 +9007,22 @@ data.sheets = [
     "page": 451
   },
   {
-    "title": "Watch What Happens",
-    "authors": [
-      "Michel Legrand",
-      "Norman Gimbel"
-    ],
-    "volume": 3,
-    "page": 333
-  },
-  {
-    "title": "Watch What Happens",
+    "title": "Watch What Happens (Volume 2)",
     "authors": [
       "Michel Legrand",
       "Norman Gimbel"
     ],
     "volume": 2,
     "page": 384
+  },
+  {
+    "title": "Watch What Happens (Volume 3)",
+    "authors": [
+      "Michel Legrand",
+      "Norman Gimbel"
+    ],
+    "volume": 3,
+    "page": 333
   },
   {
     "title": "Water Colors",
@@ -9259,7 +9255,7 @@ data.sheets = [
     "page": 393
   },
   {
-    "title": "Who Can I Turn To",
+    "title": "Who Can I Turn To (Volume 2)",
     "authors": [
       "Anthony Newley",
       "Leslie Bricusse"
@@ -9268,7 +9264,7 @@ data.sheets = [
     "page": 394
   },
   {
-    "title": "Who Can I Turn To",
+    "title": "Who Can I Turn To (Volume 3)",
     "authors": [
       "Anthony Newley",
       "Leslie Bricusse"
@@ -9465,7 +9461,7 @@ data.sheets = [
   {
     "title": "You Better Leave It Alone",
     "authors": [
-      "Nat Adderley"
+      "Clifford Jordan"
     ],
     "volume": 2,
     "page": 399
