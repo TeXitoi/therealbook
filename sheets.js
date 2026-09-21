@@ -3634,7 +3634,7 @@ data.sheets = [
     "page": 158
   },
   {
-    "title": "I Got It Sad",
+    "title": "I Got It Bad",
     "authors": [
       "Duke Ellington"
     ],
@@ -8731,7 +8731,7 @@ data.sheets = [
   {
     "title": "Trane's Blues",
     "authors": [
-      "Sonny Rollins"
+      "John Coltrane"
     ],
     "volume": 2,
     "page": 376
