@@ -348,7 +348,7 @@ data.sheets = [
     "page": 13
   },
   {
-    "title": "All God's Chillun Got Rhytm",
+    "title": "All God's Chillun Got Rhythm",
     "authors": [
       "Gus Kahn",
       "Bronisław Kaper"
@@ -3031,7 +3031,7 @@ data.sheets = [
     "page": 117
   },
   {
-    "title": "Giantsteps",
+    "title": "Giant Steps",
     "authors": [
       "John Coltrane"
     ],
@@ -4509,7 +4509,7 @@ data.sheets = [
     "page": 250
   },
   {
-    "title": "Jumping With Sympany Sid",
+    "title": "Jumpin' with Symphony Sid",
     "authors": [
       "Lester Young"
     ],
@@ -6514,7 +6514,7 @@ data.sheets = [
     "page": 349
   },
   {
-    "title": "Pithycanthropus Erectus",
+    "title": "Pithecanthropus Erectus",
     "authors": [
       "Charles Mingus"
     ],
@@ -6671,7 +6671,7 @@ data.sheets = [
     "page": 246
   },
   {
-    "title": "Ranblin'",
+    "title": "Ramblin'",
     "authors": [
       "Ornette Coleman"
     ],
@@ -6816,7 +6816,7 @@ data.sheets = [
     "page": 308
   },
   {
-    "title": "Rythtm-A-Ning",
+    "title": "Rhythm-A-Ning",
     "authors": [
       "Thelonious Monk"
     ],
@@ -7376,7 +7376,7 @@ data.sheets = [
     "page": 393
   },
   {
-    "title": "Song For Bilbad",
+    "title": "Song For Bilbao",
     "authors": [
       "Pat Metheny"
     ],
@@ -7400,7 +7400,7 @@ data.sheets = [
     "page": 317
   },
   {
-    "title": "Song For Sisiphus",
+    "title": "Song For Sisyphus",
     "authors": [
       "Phil Woods"
     ],
