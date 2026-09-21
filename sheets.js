@@ -242,7 +242,7 @@ data.sheets = [
   {
     "title": "Afro Blue",
     "authors": [
-      "John Coltrane"
+      "Mongo Santamaria"
     ],
     "volume": 1,
     "page": 9
@@ -476,7 +476,7 @@ data.sheets = [
   {
     "title": "Angela",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 3,
     "page": 9
@@ -492,6 +492,7 @@ data.sheets = [
   {
     "title": "Anthropology",
     "authors": [
+      "Charlie Parker",
       "Dizzy Gillespie"
     ],
     "volume": 1,
@@ -1616,7 +1617,7 @@ data.sheets = [
   {
     "title": "Chega De Saudade",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 74
@@ -1828,7 +1829,7 @@ data.sheets = [
   {
     "title": "Corcovado",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 94
@@ -2059,7 +2060,7 @@ data.sheets = [
   {
     "title": "Desafinado",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 112
@@ -2108,7 +2109,7 @@ data.sheets = [
   {
     "title": "Dindi",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 2,
     "page": 75
@@ -2191,7 +2192,7 @@ data.sheets = [
   {
     "title": "Don't Ever Go Away",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 3,
     "page": 67
@@ -2588,7 +2589,7 @@ data.sheets = [
   {
     "title": "Favela",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 3,
     "page": 85
@@ -3520,7 +3521,7 @@ data.sheets = [
   {
     "title": "How Insensitive",
     "authors": [
-      "Jobim AC"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 203
@@ -4010,7 +4011,7 @@ data.sheets = [
   {
     "title": "If You Never Come To Me",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 212
@@ -5007,7 +5008,7 @@ data.sheets = [
   {
     "title": "Look To The Sky",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 274
@@ -5256,7 +5257,7 @@ data.sheets = [
   {
     "title": "Meditation",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 288
@@ -6115,7 +6116,7 @@ data.sheets = [
   {
     "title": "Once I Loved",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 329
@@ -6164,7 +6165,7 @@ data.sheets = [
   {
     "title": "One Note Samba",
     "authors": [
-      "AC Jobim"
+      "Antonio Carlos Jobim"
     ],
     "volume": 1,
     "page": 331
