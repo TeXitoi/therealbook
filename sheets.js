@@ -2005,8 +2005,9 @@ data.sheets = [
     "page": 104
   },
   {
-    "title": "De Pois De Amor O'Vazio",
+    "title": "Depois do Amor, o Vazio",
     "authors": [
+      "Bobby Thomas",
       "Wayne Shorter"
     ],
     "volume": 1,
@@ -2137,7 +2138,7 @@ data.sheets = [
     "page": 77
   },
   {
-    "title": "Do You Want What It Means (To Miss New Orleans)",
+    "title": "Do You Know What It Means to Miss New Orleans?",
     "authors": [
       "Louis Alter",
       "Eddie DeLange"
