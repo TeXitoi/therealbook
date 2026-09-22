@@ -2555,7 +2555,7 @@ data.sheets = [
     "page": 91
   },
   {
-    "title": "Fables Of Faubus",
+    "title": "Fables of Faubus",
     "authors": [
       "Charles Mingus"
     ],
@@ -2684,9 +2684,11 @@ data.sheets = [
     "page": 99
   },
   {
-    "title": "Flintstone's Theme",
+    "title": "Flintstones Theme",
     "authors": [
-      "Hoyt Curtin"
+      "Len Bryson",
+      "Larry Goldberg",
+      "Peggy Shows"
     ],
     "volume": 2,
     "page": 100
@@ -2923,13 +2925,15 @@ data.sheets = [
   {
     "title": "Full Moon And Empty Arms",
     "authors": [
-      "Buddy Kaye"
+      "Buddy Kaye",
+      "Ted Mossman",
+      "Sergei Rachmaninoff"
     ],
     "volume": 3,
     "page": 95
   },
   {
-    "title": "Funk Dumplin",
+    "title": "Funk Dumplin'",
     "authors": [
       "Johnny Coles"
     ],
