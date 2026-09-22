@@ -1638,7 +1638,7 @@ data.sheets = [
   {
     "title": "Chelsea Bridge",
     "authors": [
-      "Duke Ellington"
+      "Billy Strayhorn"
     ],
     "volume": 1,
     "page": 77
@@ -1701,7 +1701,7 @@ data.sheets = [
     "page": 54
   },
   {
-    "title": "Colors Of Chloe",
+    "title": "The Colours of Chloë",
     "authors": [
       "Eberhard Weber"
     ],
@@ -1766,7 +1766,7 @@ data.sheets = [
     "page": 90
   },
   {
-    "title": "Conference Of The Birds",
+    "title": "Conference of the Birds",
     "authors": [
       "Dave Holland"
     ],
@@ -1840,7 +1840,7 @@ data.sheets = [
     "page": 94
   },
   {
-    "title": "Cork \"N\" Bib",
+    "title": "Cork 'n' Bib",
     "authors": [
       "Lee Konitz"
     ],
