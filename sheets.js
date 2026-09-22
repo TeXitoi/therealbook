@@ -2286,7 +2286,9 @@ data.sheets = [
   {
     "title": "Early Autumn",
     "authors": [
-      "Mercer el al"
+      "Ralph Burns",
+      "Woody Herman",
+      "Johnny Mercer"
     ],
     "volume": 2,
     "page": 82
@@ -2343,7 +2345,8 @@ data.sheets = [
   {
     "title": "Eighty-One",
     "authors": [
-      "Ron Carter"
+      "Ron Carter",
+      "Miles Davis"
     ],
     "volume": 1,
     "page": 134
@@ -2375,10 +2378,10 @@ data.sheets = [
   {
     "title": "Elora",
     "authors": [
-      "JJ Johnson"
+      "J. J. Johnson"
     ],
     "volume": 2,
-    "page": 92
+    "page": 84
   },
   {
     "title": "Emanon",
@@ -2479,7 +2482,7 @@ data.sheets = [
     "page": 79
   },
   {
-    "title": "Ev'Ry Time We Say Good Bye",
+    "title": "Ev'ry Time We Say Goodbye",
     "authors": [
       "Cole Porter"
     ],
@@ -2536,7 +2539,7 @@ data.sheets = [
     "page": 143
   },
   {
-    "title": "Eye Of Hurricane",
+    "title": "The Eye of the Hurricane",
     "authors": [
       "Herbie Hancock"
     ],
@@ -2544,7 +2547,7 @@ data.sheets = [
     "page": 90
   },
   {
-    "title": "Ezz-Thetic",
+    "title": "Ezz-thetic",
     "authors": [
       "George Russell"
     ],
@@ -2816,7 +2819,7 @@ data.sheets = [
   {
     "title": "Fox Hunt",
     "authors": [
-      "JJ Johnson"
+      "J. J. Johnson"
     ],
     "volume": 2,
     "page": 110
@@ -4618,7 +4621,7 @@ data.sheets = [
   {
     "title": "Kelo",
     "authors": [
-      "JJ Johnson"
+      "J. J. Johnson"
     ],
     "volume": "1 Additions",
     "page": 5
@@ -4698,7 +4701,7 @@ data.sheets = [
   {
     "title": "Lament",
     "authors": [
-      "JJ Johnson"
+      "J. J. Johnson"
     ],
     "volume": 1,
     "page": 257
@@ -7137,7 +7140,7 @@ data.sheets = [
   {
     "title": "Shutter Bug",
     "authors": [
-      "JJ Johnson"
+      "J. J. Johnson"
     ],
     "volume": 2,
     "page": 322
