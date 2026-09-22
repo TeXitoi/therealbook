@@ -813,7 +813,9 @@ data.sheets = [
   {
     "title": "Bess, You Is My Woman Now",
     "authors": [
-      "George Gershwin"
+      "George Gershwin",
+      "Ira Gershwin",
+      "DuBose Heyward"
     ],
     "volume": 3,
     "page": 22
@@ -884,7 +886,7 @@ data.sheets = [
     "page": 44
   },
   {
-    "title": "Big P",
+    "title": "Big \"P\"",
     "authors": [
       "Jimmy Heath"
     ],
@@ -990,7 +992,7 @@ data.sheets = [
   {
     "title": "Blessed Relief",
     "authors": [
-      "Zappa. Frank"
+      "Frank Zappa"
     ],
     "volume": 1,
     "page": 50
@@ -1048,7 +1050,8 @@ data.sheets = [
   {
     "title": "Blue In Green",
     "authors": [
-      "Miles Davis"
+      "Miles Davis",
+      "Bill Evans"
     ],
     "volume": 1,
     "page": 53
@@ -1090,7 +1093,7 @@ data.sheets = [
   {
     "title": "Blue Silver",
     "authors": [
-      "Blue Mitchell"
+      "Horace Silver"
     ],
     "volume": 2,
     "page": 35
@@ -1234,7 +1237,9 @@ data.sheets = [
   {
     "title": "Boplicity",
     "authors": [
-      "Cleo Henry"
+      "Cleo Henry",
+      "Miles Davis",
+      "Gil Evans"
     ],
     "volume": 1,
     "page": 60
