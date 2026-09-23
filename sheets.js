@@ -3274,7 +3274,8 @@ data.sheets = [
   {
     "title": "Harlem Nocturne",
     "authors": [
-      "Duke Ellington"
+      "Earle Hagen",
+      "Dick Rogers"
     ],
     "volume": 3,
     "page": 104
@@ -3321,7 +3322,7 @@ data.sheets = [
     "page": 137
   },
   {
-    "title": "Heart Song",
+    "title": "Heartsong",
     "authors": [
       "Fred Hersch"
     ],
@@ -3372,7 +3373,7 @@ data.sheets = [
   {
     "title": "Here's That Sunny Day",
     "authors": [
-      "Jimmy Van Heusen"
+      "Barney Kessel"
     ],
     "volume": 2,
     "page": 138
@@ -3419,9 +3420,10 @@ data.sheets = [
     "page": 108
   },
   {
-    "title": "High Wire The Aerialist",
+    "title": "High Wire - The Aerialist",
     "authors": [
-      "Chick Corea"
+      "Chick Corea",
+      "Tony Cohan"
     ],
     "volume": 3,
     "page": 110
@@ -3435,7 +3437,7 @@ data.sheets = [
     "page": 142
   },
   {
-    "title": "Hocus Pocus",
+    "title": "Hocus-Pocus",
     "authors": [
       "Lee Morgan"
     ],
@@ -3451,7 +3453,7 @@ data.sheets = [
     "page": 195
   },
   {
-    "title": "Horacescope",
+    "title": "Horace-scope",
     "authors": [
       "Horace Silver"
     ],
@@ -3542,7 +3544,8 @@ data.sheets = [
   {
     "title": "How Long Has This Been Going On",
     "authors": [
-      "George Gershwin"
+      "George Gershwin",
+      "Ira Gershwin"
     ],
     "volume": 3,
     "page": 116
