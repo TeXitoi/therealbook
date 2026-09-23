@@ -3767,7 +3767,9 @@ data.sheets = [
   {
     "title": "I Wish You Love",
     "authors": [
-      "Charles Trenet"
+      "Léo Chauliac",
+      "Charles Trenet",
+      "Albert Askew Beach"
     ],
     "volume": 3,
     "page": 124
@@ -4150,7 +4152,7 @@ data.sheets = [
   {
     "title": "Inchworm",
     "authors": [
-      "John Coltrane"
+      "Frank Loesser"
     ],
     "volume": 1,
     "page": 224
@@ -4235,7 +4237,7 @@ data.sheets = [
       "Ernie Krivda"
     ],
     "volume": 3,
-    "page": 150
+    "page": 149
   },
   {
     "title": "Is It Really True?",
@@ -4487,7 +4489,8 @@ data.sheets = [
   {
     "title": "Joyce's Samba",
     "authors": [
-      "Luiz Eça"
+      "Durval Ferreira",
+      "Maurício Einhorn"
     ],
     "volume": 2,
     "page": 187
@@ -5008,7 +5011,7 @@ data.sheets = [
   {
     "title": "Long As You Know You're Living Yours",
     "authors": [
-      "Jerome Kern"
+      "Keith Jarrett"
     ],
     "volume": 1,
     "page": 271
@@ -5081,7 +5084,9 @@ data.sheets = [
   {
     "title": "Lover Man",
     "authors": [
-      "Miles Davis"
+      "Jimmy Davis",
+      "Roger Ramirez",
+      "James Sherman"
     ],
     "volume": 2,
     "page": 224
