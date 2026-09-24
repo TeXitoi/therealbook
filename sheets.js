@@ -6956,7 +6956,7 @@ data.sheets = [
     "page": 367
   },
   {
-    "title": "Scotch 'n' Soda",
+    "title": "Scotch and Soda",
     "authors": [
       "Dave Guard"
     ],
@@ -7293,7 +7293,7 @@ data.sheets = [
     "page": 399
   },
   {
-    "title": "Softly Is A Morning Sunrise",
+    "title": "Softly, as in a Morning Sunrise",
     "authors": [
       "Sigmund Romberg",
       "Oscar Hammerstein II"
@@ -7385,10 +7385,10 @@ data.sheets = [
     "page": 392
   },
   {
-    "title": "Sommer Samba",
+    "title": "Samba de Verão or So Nice (Summer Samba)",
     "authors": [
       "Marcos Valle",
-      "Paulo Sergio Valle",
+      "Paulo Sérgio Valle",
       "Norman Gimbel"
     ],
     "volume": 1,
@@ -7542,7 +7542,7 @@ data.sheets = [
   {
     "title": "Spiral",
     "authors": [
-      "Kenny Barron"
+      "John Coltrane"
     ],
     "volume": 2,
     "page": 338
@@ -7700,7 +7700,7 @@ data.sheets = [
       "Andy Razaf"
     ],
     "volume": 1,
-    "page": 311
+    "page": 411
   },
   {
     "title": "Stormy Weather",
@@ -7728,9 +7728,10 @@ data.sheets = [
     "page": 412
   },
   {
-    "title": "Strayhorn 2",
+    "title": "Song For Strayhorn #2",
     "authors": [
-      "Billy Strayhorn"
+      "Gerry Mulligan",
+      "Dave Grusin"
     ],
     "volume": 2,
     "page": 344
@@ -7747,7 +7748,7 @@ data.sheets = [
   {
     "title": "Strode Road",
     "authors": [
-      "Wayne Shorter"
+      "Sonny Rollins"
     ],
     "volume": 2,
     "page": 345
@@ -7854,7 +7855,7 @@ data.sheets = [
   {
     "title": "Sweet Georgia Bright",
     "authors": [
-      "Freddie Hubbard"
+      "Charles Lloyd"
     ],
     "volume": 1,
     "page": 417
