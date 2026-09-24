@@ -5166,7 +5166,7 @@ data.sheets = [
     "page": 281
   },
   {
-    "title": "Majoong",
+    "title": "Mahjong",
     "authors": [
       "Wayne Shorter"
     ],
@@ -5319,7 +5319,8 @@ data.sheets = [
   {
     "title": "Menina Flor",
     "authors": [
-      "Luiz Bonfá"
+      "Luiz Bonfá",
+      "María Toledo"
     ],
     "volume": 2,
     "page": 234
@@ -5502,7 +5503,7 @@ data.sheets = [
       "Thelonious Monk"
     ],
     "volume": 2,
-    "page": 234
+    "page": 242
   },
   {
     "title": "Monk's Sphere",
@@ -5808,7 +5809,7 @@ data.sheets = [
   {
     "title": "Mysterious Traveler",
     "authors": [
-      "Joe Zawinul"
+      "Wayne Shorter"
     ],
     "volume": 1,
     "page": 312
