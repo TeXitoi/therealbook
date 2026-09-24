@@ -8022,7 +8022,7 @@ data.sheets = [
     "page": 297
   },
   {
-    "title": "Teenie' Blues",
+    "title": "Teenie's Blues",
     "authors": [
       "Oliver Nelson"
     ],
@@ -8095,7 +8095,7 @@ data.sheets = [
       "Freddie Hubbard"
     ],
     "volume": 2,
-    "page": 64
+    "page": 66
   },
   {
     "title": "The Days Of Wine And Roses",
@@ -8759,7 +8759,7 @@ data.sheets = [
   {
     "title": "Trance",
     "authors": [
-      "John McLaughlin"
+      "Steve Kuhn"
     ],
     "volume": 1,
     "page": 435
@@ -8838,7 +8838,7 @@ data.sheets = [
     "page": 378
   },
   {
-    "title": "Un Poco-Loco",
+    "title": "Un Poco Loco",
     "authors": [
       "Bud Powell"
     ],
@@ -8851,12 +8851,12 @@ data.sheets = [
       "Irving Gordon"
     ],
     "volume": 3,
-    "page": 389
+    "page": 328
   },
   {
     "title": "Unquity Road",
     "authors": [
-      "Herbie Hancock"
+      "Pat Metheny"
     ],
     "volume": 1,
     "page": 439
