@@ -6061,6 +6061,14 @@ data.sheets = [
     "page": 272
   },
   {
+    "title": "Oye Cómo Va",
+    "authors": [
+      "Tito Puente"
+    ],
+    "volume": 2,
+    "page": 403
+  },
+  {
     "title": "The Old Folks",
     "authors": [
       "Jacques Brel",
@@ -8963,7 +8971,9 @@ data.sheets = [
     "title": "Walk Tall",
     "authors": [
       "Julian \"Cannonball\" Adderley",
-      "Joe Zawinul"
+      "Joe Zawinul",
+      "Queen Esther Marrow",
+      "James Rein"
     ],
     "volume": 2,
     "page": 382
@@ -8987,8 +8997,7 @@ data.sheets = [
   {
     "title": "Wall Street",
     "authors": [
-      "George Gershwin",
-      "Ira Gershwin"
+      "John Knowlton"
     ],
     "volume": 2,
     "page": 383
@@ -9004,7 +9013,7 @@ data.sheets = [
   {
     "title": "Walter L.",
     "authors": [
-      "Woody Shaw"
+      "Gary Burton"
     ],
     "volume": 1,
     "page": 447
@@ -9353,7 +9362,7 @@ data.sheets = [
   {
     "title": "Wings Of Karma",
     "authors": [
-      "Chick Corea"
+      "John McLaughlin"
     ],
     "volume": 1,
     "page": 468
@@ -9385,7 +9394,7 @@ data.sheets = [
     "page": 347
   },
   {
-    "title": "Woody'n You",
+    "title": "Woody 'n' You",
     "authors": [
       "Dizzy Gillespie"
     ],
@@ -9403,7 +9412,7 @@ data.sheets = [
   {
     "title": "Wow",
     "authors": [
-      "Charlie Barnet"
+      "Lennie Tristano"
     ],
     "volume": 2,
     "page": 397
@@ -9469,7 +9478,7 @@ data.sheets = [
     "page": 473
   },
   {
-    "title": "You & The Night & The Music",
+    "title": "You and the Night and the Music",
     "authors": [
       "Arthur Schwartz",
       "Howard Dietz"
