@@ -4382,6 +4382,14 @@ data.sheets = [
     "page": 180
   },
   {
+    "title": "Jamala",
+    "authors": [
+      "Dave Holland"
+    ],
+    "volume": "1 Additions",
+    "page": 10
+  },
+  {
     "title": "Je Ne Sais Pas",
     "authors": [
       "Lionel Hampton",
@@ -5897,7 +5905,7 @@ data.sheets = [
     "page": 319
   },
   {
-    "title": "Nice'n Easy",
+    "title": "Nice 'n Easy",
     "authors": [
       "Lew Spence",
       "Alan Bergman",
@@ -6053,8 +6061,12 @@ data.sheets = [
     "page": 272
   },
   {
-    "title": "Old Folks",
+    "title": "The Old Folks",
     "authors": [
+      "Jacques Brel",
+      "Gérard Jouannest",
+      "Jean Corti",
+      "Mort Shuman",
       "Eric Blau"
     ],
     "volume": 3,
@@ -6077,7 +6089,7 @@ data.sheets = [
     "page": 328
   },
   {
-    "title": "Olinoqui Valley",
+    "title": "Oliloqui Valley",
     "authors": [
       "Herbie Hancock"
     ],
@@ -6449,19 +6461,19 @@ data.sheets = [
   {
     "title": "Perdido Line",
     "authors": [
+      "Jimmy Hamilton",
       "Clark Terry"
     ],
     "volume": 2,
     "page": 290
   },
   {
-    "title": "Perfect Love, Jamala",
+    "title": "Perfect Love",
     "authors": [
-      "Karl Berger",
-      "Dave Holland"
+      "Karl Berger"
     ],
     "volume": "1 Additions",
-    "page": 9
+    "page": 10
   },
   {
     "title": "Perhaps",
@@ -6488,7 +6500,7 @@ data.sheets = [
     "page": 293
   },
   {
-    "title": "Petites Machins",
+    "title": "Petits Machins",
     "authors": [
       "Miles Davis"
     ],
@@ -6550,7 +6562,7 @@ data.sheets = [
       "Sonny Rollins"
     ],
     "volume": "1 Additions",
-    "page": 10
+    "page": 9
   },
   {
     "title": "Played Twice",
@@ -6710,7 +6722,7 @@ data.sheets = [
     "page": 247
   },
   {
-    "title": "Re; Person I Knew",
+    "title": "Re: Person I Knew",
     "authors": [
       "Bill Evans"
     ],
@@ -6815,7 +6827,7 @@ data.sheets = [
     "page": 250
   },
   {
-    "title": "Round Midnight",
+    "title": "'Round Midnight",
     "authors": [
       "Thelonious Monk"
     ],
